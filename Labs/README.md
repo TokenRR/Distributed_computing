@@ -1,0 +1,1 @@
+# Repository for 'Distributed computing' course at Kyiv National Igor Sikorsky Institute
